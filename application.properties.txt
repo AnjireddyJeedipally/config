@@ -1,2 +1,0 @@
-greeting=Hello world from application.properties
-val_1=value from application.properties
