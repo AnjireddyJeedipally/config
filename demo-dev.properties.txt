@@ -1,2 +1,0 @@
-greeting=Hello world from demo-dev.properties
-val_3=value from demo-dev.properties
